@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1643676576 source:c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\main.cpp
+	<iostream>
+	"admin.h"
+	"user.h"
+
+1643634561 source:c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\admin.cpp
+	"admin.h"
+	"appartment.h"
+	"RoomGraph.h"
+
+1643173327 c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\admin.h
+	<iostream>
+
+1643633381 c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\appartment.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<sys/stat.h>
+	<sys/types.h>
+
+1643676735 source:c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\appartment.cpp
+	"appartment.h"
+	"blocks.h"
+	"person.h"
+	<fstream>
+
+1643680347 source:c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\roomgraph.cpp
+	"RoomGraph.h"
+	<cstring>
+	<deque>
+	"person.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+
+1643680105 c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\roomgraph.h
+	<unordered_map>
+	<vector>
+
+1643680134 c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\blocks.h
+	"RoomGraph.h"
+
+1643680156 source:c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\blocks.cpp
+	"blocks.h"
+	<iostream>
+	<fstream>
+	<cstdio>
+	<cstring>
+	<sys/stat.h>
+	<sys/types.h>
+	<cstdlib>
+
+1643174625 source:c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\appartment.c
+
+1643679856 source:c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\person.cpp
+	"person.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1643679782 c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\person.h
+
+1643674793 c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\user.h
+
+1643681084 source:c:\users\asrit\documents\cat ii project appartment management\appartment-management for real\apt-management\user.cpp
+	"user.h"
+	<iostream>
+	"appartment.h"
+	"blocks.h"
+	"person.h"
+
